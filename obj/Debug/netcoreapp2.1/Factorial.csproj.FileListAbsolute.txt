@@ -1,0 +1,11 @@
+D:\Core Examples\Factorial\bin\Debug\netcoreapp2.1\Factorial.deps.json
+D:\Core Examples\Factorial\bin\Debug\netcoreapp2.1\Factorial.runtimeconfig.json
+D:\Core Examples\Factorial\bin\Debug\netcoreapp2.1\Factorial.runtimeconfig.dev.json
+D:\Core Examples\Factorial\bin\Debug\netcoreapp2.1\Factorial.dll
+D:\Core Examples\Factorial\bin\Debug\netcoreapp2.1\Factorial.pdb
+D:\Core Examples\Factorial\obj\Debug\netcoreapp2.1\Factorial.csprojAssemblyReference.cache
+D:\Core Examples\Factorial\obj\Debug\netcoreapp2.1\Factorial.csproj.CoreCompileInputs.cache
+D:\Core Examples\Factorial\obj\Debug\netcoreapp2.1\Factorial.AssemblyInfoInputs.cache
+D:\Core Examples\Factorial\obj\Debug\netcoreapp2.1\Factorial.AssemblyInfo.cs
+D:\Core Examples\Factorial\obj\Debug\netcoreapp2.1\Factorial.dll
+D:\Core Examples\Factorial\obj\Debug\netcoreapp2.1\Factorial.pdb
